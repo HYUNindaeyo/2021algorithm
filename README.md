@@ -1,10 +1,10 @@
   
-#### :dizzy: 2021 알고리즘 스터디 :dizzy: 
+### :dizzy: 2021 알고리즘 스터디 :dizzy: 
 
 ## 🖥 스터디 참여 중인 사람들  
-:yellow_heart: '김현진'  
-:blue_heart: '박소현'  
-:purple_heart: '박윤경'
+  :yellow_heart: `김현진`  
+  :blue_heart: `박소현`  
+  :purple_heart: `박윤경`
 
 
 
@@ -42,31 +42,31 @@ https://www.notion.so/expresshighway/1342252e153740f196aa342414872ac3
 
 
 ## 📅 스터디 진행
-:small_blue_diamond:1주차 -   
-(7월 6일)  
-스터디 : 택시거리(bronze)  
-과제 :   
+  :small_blue_diamond:1주차 -   
+    (7월 6일)  
+    스터디 : 택시거리(bronze)  
+    과제 :   
 
-:small_blue_diamond:2주차 - Greedy Algorithm  
-(7월 20일)  
-스터디 : A->B(silver1)  
+  :small_blue_diamond:2주차 - Greedy Algorithm  
+    (7월 20일)  
+    스터디 : A->B(silver1)  
 
-:small_blue_diamond:3주차 - BFS/DFS  
-(7월 27일)  
-스터디 : 돌그룹(gold5)  
+  :small_blue_diamond:3주차 - BFS/DFS  
+    (7월 27일)  
+    스터디 : 돌그룹(gold5)  
 
-:small_blue_diamond:4주차 - BFS/DFS & brute force  
-(8월 3일)  
-스터디 : 보물섬(gold5)  
+   :small_blue_diamond:4주차 - BFS/DFS & brute force  
+    (8월 3일)  
+    스터디 : 보물섬(gold5)  
 
-:small_blue_diamond:5주차 - 구현  
-(8월 10일)  
-스터디 : 통계학(silver4)  
+  :small_blue_diamond:5주차 - 구현  
+    (8월 10일)  
+    스터디 : 통계학(silver4)  
 
-:small_blue_diamond:6주차 - 구현  
-(8월 17일)  
-스터디 : 다음 순열(silver3)  
+  :small_blue_diamond:6주차 - 구현  
+    (8월 17일)  
+    스터디 : 다음 순열(silver3)  
 
-:small_blue_diamond:7주차 - 구현  
-(8월 24일)  
-스터디 : 별찍기22(silver2)  
+  :small_blue_diamond:7주차 - 구현  
+    (8월 24일)  
+    스터디 : 별찍기22(silver2)  
