@@ -3,9 +3,13 @@
 :pushpin: 진행 규칙
 ====================================
 :heavy_check_mark: 동아리 시작 전에는 문제를 깃허브에 올리기 ❗️
+
 :heavy_check_mark: 파일 이름은 {BOJ_문제번호_이름.확장자}로 통일❗️
+
 :heavy_check_mark: 지각, 사유 없는 무단결석 금지 ❗️
+
 :heavy_check_mark: 자세한 규칙은 여기에서 확인 ❗️
+
 https://www.notion.so/expresshighway/1342252e153740f196aa342414872ac3
 
 
