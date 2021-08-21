@@ -1,41 +1,41 @@
 # 2021algorithm
 
-👉🏻 진행 규칙
+:pushpin: 진행 규칙
 ====================================
-동아리 시작 전에는 문제를 깃허브에 올리기 ❗️
-파일 이름은 {BOJ_문제번호_이름.확장자}로 통일❗️
-지각, 사유 없는 무단결석 금지 ❗️
-자세한 규칙은 여기에서 확인 ❗️
+:heavy_check_mark: 동아리 시작 전에는 문제를 깃허브에 올리기 ❗️
+:heavy_check_mark: 파일 이름은 {BOJ_문제번호_이름.확장자}로 통일❗️
+:heavy_check_mark: 지각, 사유 없는 무단결석 금지 ❗️
+:heavy_check_mark: 자세한 규칙은 여기에서 확인 ❗️
 https://www.notion.so/expresshighway/1342252e153740f196aa342414872ac3
 
 
 📅 동아리 진행
 ====================================
-1주차 - 
+:small_blue_diamond:1주차 - 
 (7월 6일)
 스터디 : 택시거리(bronze)
 과제 : 
 
-2주차 - Greedy Algorithm
+:small_blue_diamond:2주차 - Greedy Algorithm
 (7월 20일)
 스터디 : A->B(silver1)
 
-3주차 - BFS/DFS
+:small_blue_diamond:3주차 - BFS/DFS
 (7월 27일)
 스터디 : 돌그룹(gold5)
 
-4주차 - BFS/DFS & brute force
+:small_blue_diamond:4주차 - BFS/DFS & brute force
 (8월 3일)
 스터디 : 보물섬(gold5)
 
-5주차 - 구현
+:small_blue_diamond:5주차 - 구현
 (8월 10일)
 스터디 : 통계학(silver4)
 
-6주차 - 구현
+:small_blue_diamond:6주차 - 구현
 (8월 17일)
 스터디 : 다음 순열(silver3)
 
-7주차 - 구현
+:small_blue_diamond:7주차 - 구현
 (8월 24일)
 스터디 : 별찍기22(silver2)
